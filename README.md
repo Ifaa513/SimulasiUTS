@@ -193,8 +193,11 @@ Fungsi ini dibuat untuk memudahkan pengguna agar tidak perlu mengisi ulang data 
         txtJudul.setText(tblData.getValueAt(row, 1).toString());
         txtTahun.setText(tblData.getValueAt(row, 2).toString());
         txtPenerbit.setText(tblData.getValueAt(row, 3).toString());
-        }     
+        } 
+### 12. [DbUtils](https://github.com/Ifaa513/SimulasiUTS/blob/main/DbUtils.java)
+Program ini adalah sebuah utility class bernama DbUtils yang menyediakan metode untuk mengubah hasil query dari database berupa ResultSet menjadi objek TableModel. TableModel digunakan untuk menampilkan data dalam komponen GUI seperti JTable di Java Swing.
 # Penerapan 🔥
+
 
 
 
