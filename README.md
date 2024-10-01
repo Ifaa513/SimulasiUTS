@@ -193,6 +193,8 @@ Fungsi ini dibuat untuk memudahkan pengguna agar tidak perlu mengisi ulang data 
         txtJudul.setText(tblData.getValueAt(row, 1).toString());
         txtTahun.setText(tblData.getValueAt(row, 2).toString());
         txtPenerbit.setText(tblData.getValueAt(row, 3).toString());
-        }                                    
+        }     
+# Penerapan 🔥
+
 
 
