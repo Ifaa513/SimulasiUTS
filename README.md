@@ -197,11 +197,37 @@ Fungsi ini dibuat untuk memudahkan pengguna agar tidak perlu mengisi ulang data 
 ### 12. [DbUtils](https://github.com/Ifaa513/SimulasiUTS/blob/main/DbUtils.java)
 Program ini adalah sebuah utility class bernama DbUtils yang menyediakan metode untuk mengubah hasil query dari database berupa ResultSet menjadi objek TableModel. TableModel digunakan untuk menampilkan data dalam komponen GUI seperti JTable di Java Swing.
 # Penerapan 🔥
-## 1. Insert data
-Masukkan data
+## 1. 📥 Insert data
+### Masukkan data
+
 ![Screenshot (432)](https://github.com/user-attachments/assets/f4477685-2c92-45e5-ad1a-49b47c9945a8)
-Klik tombol Insert, maka akan keluar notifikasi
 
+### Klik tombol Insert, maka akan keluar notifikasi
 
+![Screenshot (433)](https://github.com/user-attachments/assets/591bacf0-c175-401a-9c1b-f5f09b870ef2)
 
+### Data yang telah diinputkan pun akan disimpan di dalam database, dan ditampilan di tabel
 
+![Screenshot (434)](https://github.com/user-attachments/assets/c5b9c5fc-876c-44e3-95af-260c58bca5b3)
+
+## 2. 🔄 Update data
+### Klik tabel pada baris yang ingin diubah, masukkan data baru
+
+![Screenshot (435)](https://github.com/user-attachments/assets/d5701942-0394-41a9-949e-0c09609b3f20)
+
+### Klik tombol update, maka akan keluar notifikasi
+
+![Screenshot (436)](https://github.com/user-attachments/assets/cc292f7e-7c57-43ef-9055-5f191e46beb2)
+
+### Data pun terimpan, dan ditampilkan dalam tabel
+
+![Screenshot (437)](https://github.com/user-attachments/assets/92f7a15e-9788-4074-a5fe-5f823af61232)
+
+## 3. 🗑️ Delete
+### Klik tabel pada baris yang ingin dihapus, lalu pencet tombol delete
+
+![Screenshot (438)](https://github.com/user-attachments/assets/4604b0d2-a28a-40d6-82e1-34adc3d54241)
+
+### Data pun berhasil terhapus
+
+![Screenshot (439)](https://github.com/user-attachments/assets/bbcf4814-892a-4cd7-9d42-1c299373541f)
