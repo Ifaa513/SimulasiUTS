@@ -197,6 +197,10 @@ Fungsi ini dibuat untuk memudahkan pengguna agar tidak perlu mengisi ulang data 
 ### 12. [DbUtils](https://github.com/Ifaa513/SimulasiUTS/blob/main/DbUtils.java)
 Program ini adalah sebuah utility class bernama DbUtils yang menyediakan metode untuk mengubah hasil query dari database berupa ResultSet menjadi objek TableModel. TableModel digunakan untuk menampilkan data dalam komponen GUI seperti JTable di Java Swing.
 # Penerapan 🔥
+## 1. Insert data
+Masukkan data
+![Screenshot (432)](https://github.com/user-attachments/assets/f4477685-2c92-45e5-ad1a-49b47c9945a8)
+Klik tombol Insert, maka akan keluar notifikasi
 
 
 
